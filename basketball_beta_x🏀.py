@@ -3,6 +3,7 @@ from tkinter import messagebox
 import numpy as np
 from scipy.stats import norm
 
+
 # Function to calculate and display the predictions and suggestions
 def calculate():
     try:
