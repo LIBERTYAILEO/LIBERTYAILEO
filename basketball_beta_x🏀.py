@@ -126,3 +126,4 @@ root.geometry("700x1000")
 
 # Run the application
 root.mainloop()
+
