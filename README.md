@@ -5,7 +5,7 @@
 - I’m currently learning Python, with a focus on data structures, Natural Language Processing (NLP), and computer vision.
 - I love exploring various fields within AI, including but not limited to NLP, computer vision, and deep learning.
 - I’m looking to collaborate on AI and data science projects.
-- 📫 How to reach me: [Email](mailto:your.email@example.com), [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:libertylovesjehovah@gmail.com), [LinkedIn](https://linkedin.com/in/yourprofile)(coming soon) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love discussing AI and can talk about it for hours!
 
