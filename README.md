@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @LIBERTYAILEO
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Python [data structure, NLP] 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @LIBERTYAILEO
 
-<!---
-LIBERTYAILEO/LIBERTYAILEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- I’m passionate about all aspects of Artificial Intelligence and Machine Learning.
+- I’m currently learning Python, with a focus on data structures, Natural Language Processing (NLP), and computer vision.
+- I love exploring various fields within AI, including but not limited to NLP, computer vision, and deep learning.
+- I’m looking to collaborate on AI and data science projects.
+- 📫 How to reach me: [Email](mailto:your.email@example.com), [LinkedIn](https://linkedin.com/in/yourprofile)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love discussing AI and can talk about it for hours!
+
+## 🚀 Projects
+- [AI Projects](https://github.com/LIBERTYAILEO/AI_Projects): A collection of my AI and machine learning projects. (Coming Soon)
+- [Data Science Portfolio](https://github.com/LIBERTYAILEO/Data_Science_Portfolio): My personal data science experiments and analyses. (Coming Soon)
